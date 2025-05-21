@@ -1,0 +1,13 @@
+body{
+background-color: #c4ab93;
+text-align: center;
+
+}
+section{
+
+    background-color: rgb(255, 254, 205);
+    border-radius: 30px;
+    width: 500px;
+    text-align: center;
+    padding: 10px;
+}
